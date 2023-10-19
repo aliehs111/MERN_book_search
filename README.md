@@ -8,12 +8,12 @@ Also, review all the depenedencies so you are aware of the packages you will be 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 ## Resources and Contributors
-Reading documentation for the Apollo Client was the most important resource for refactoring this code. 
-Mutations: https://www.apollographql.com/docs/react/data/mutations
+Reading documentation for the Apollo Client was the most important resource for refactoring this code. <br>
+Mutations: https://www.apollographql.com/docs/react/data/mutations<br>
 Queries: https://www.apollographql.com/docs/react/data/queries
 
 ## Links and Visuals
-This application is deployed on Heroku: 
+This application is deployed on Heroku: https://dashboard.heroku.com/apps/desolate-temple-58304<br>
 This is the GitHub Repository: https://github.com/aliehs111/MERN_book_search
 
 ![Alt text](/client/src/assets/Screenshot%202023-10-16%20at%209.34.46%20AM.png)
