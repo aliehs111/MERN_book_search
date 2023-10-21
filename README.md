@@ -3,8 +3,8 @@
 ## Description
 This is a Google Book search application that was originally developed with engine built with a RESTful API.  It has been refactored to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 ## Usage and Installation
-By visiting this application on Heroku, you can download this application and it will be ready to use. If you want to take this code and modify it for your own application, clone the repository.  Be sure to be running node and express.  Open the root file package.json to see the custom scripts and how they work with the custom scripts in the client and server directories to know which npm commands to use in your integrated terminal.
-Also, review all the depenedencies so you are aware of the packages you will be installing when you "npm install".
+By visiting this application on Heroku, it will be ready to use if you would like to sign up as a user and have your own database of books. If you want to take this code and modify it for your own application, clone the repository.  Be sure to be running node and express.  Open the root file package.json to see the custom scripts and how they work with the custom scripts in the client and server directories to know which npm commands to use in your integrated terminal.
+Also, review all the depenedencies so you are aware of the packages you will be installing when you "npm install".  You will need to modify the connection.js and .env file with your own mongoDB account credentials.
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 ## Resources and Contributors
