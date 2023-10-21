@@ -13,7 +13,7 @@ Mutations: https://www.apollographql.com/docs/react/data/mutations<br>
 Queries: https://www.apollographql.com/docs/react/data/queries
 
 ## Links and Visuals
-This application is deployed on Heroku: https://dashboard.heroku.com/apps/desolate-temple-58304<br>
+This application is deployed on Heroku: https://desolate-temple-58304-0d9e306897c2.herokuapp.com/<br>
 This is the GitHub Repository: https://github.com/aliehs111/MERN_book_search
 
 ![Alt text](/client/src/assets/Screenshot%202023-10-16%20at%209.34.46%20AM.png)
